@@ -268,7 +268,7 @@ Please include relevant **tests** for any changes to maintain code quality.
 
 ## License
 
-This project is available under a permissive license \(e.g. [MIT License](https://opensource.org/licenses/MIT)\). Feel free to customize or adopt a different license based on your organization’s needs.
+This project is available under a permissive license \(e.g. [MIT License](https://opensource.org/licenses/MIT)\).
 
 ---
 

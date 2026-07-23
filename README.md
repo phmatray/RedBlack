@@ -271,6 +271,15 @@ You’ll see an output table with timings and memory usage.
 
 ---
 
+<!-- portfolio-techstack:start -->
+
+## Tech Stack
+
+- **.NET 9**
+- BenchmarkDotNet
+
+<!-- portfolio-techstack:end -->
+
 ## Contributing
 
 Contributions are welcome! Feel free to:

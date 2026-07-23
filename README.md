@@ -2,6 +2,20 @@
 
 # Red-Black Tree with Order Statistics & Duplicates
 
+<!-- portfolio-badges:start -->
+<!-- Identity -->
+[![phmatray - RedBlack](https://img.shields.io/static/v1?label=phmatray&message=RedBlack&color=blue&logo=github)](https://github.com/phmatray/RedBlack)
+![Top language](https://img.shields.io/github/languages/top/phmatray/RedBlack)
+[![Stars](https://img.shields.io/github/stars/phmatray/RedBlack?style=social)](https://github.com/phmatray/RedBlack/stargazers)
+[![Forks](https://img.shields.io/github/forks/phmatray/RedBlack?style=social)](https://github.com/phmatray/RedBlack/network/members)
+
+<!-- Activity -->
+[![Issues](https://img.shields.io/github/issues/phmatray/RedBlack)](https://github.com/phmatray/RedBlack/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/phmatray/RedBlack)](https://github.com/phmatray/RedBlack/pulls)
+[![Last commit](https://img.shields.io/github/last-commit/phmatray/RedBlack)](https://github.com/phmatray/RedBlack/commits)
+<!-- portfolio-badges:end -->
+
+
 A **C#** implementation of a **Red-Black Tree** supporting:
 
 - **Multiset Counting**: Multiple occurrences of the same key stored in a single node.

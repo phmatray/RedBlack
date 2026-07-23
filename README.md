@@ -1,3 +1,5 @@
+![RedBlack banner](.github/banner.png)
+
 # Red-Black Tree with Order Statistics & Duplicates
 
 A **C#** implementation of a **Red-Black Tree** supporting:

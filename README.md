@@ -8,6 +8,7 @@
 ![Top language](https://img.shields.io/github/languages/top/phmatray/RedBlack)
 [![Stars](https://img.shields.io/github/stars/phmatray/RedBlack?style=social)](https://github.com/phmatray/RedBlack/stargazers)
 [![Forks](https://img.shields.io/github/forks/phmatray/RedBlack?style=social)](https://github.com/phmatray/RedBlack/network/members)
+[![License](https://img.shields.io/github/license/phmatray/RedBlack)](https://github.com/phmatray/RedBlack/blob/HEAD/LICENSE)
 
 <!-- Activity -->
 [![Issues](https://img.shields.io/github/issues/phmatray/RedBlack)](https://github.com/phmatray/RedBlack/issues)
